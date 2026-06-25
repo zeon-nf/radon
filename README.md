@@ -8,8 +8,7 @@
          | ) \ \__| )   ( || (__/  )| (___) || )  \  |
          |/   \__/|/     \|(______/ (_______)|/    )_)
                                                       
-``
-
+```
 # Radon: Snapshot Manager Graphical Frontend
 
 Radon is a lightweight GTK4 and Libadwaita desktop application developed by **Zeon** that serves as a graphical frontend for the `nsm` (Network Snapshot Manager / System Snapshot Utility) command-line tool. It simplifies system snapshot administration on Linux systems by providing a clean user interface to create, view, roll back, and delete manual root snapshots.
